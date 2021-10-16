@@ -42,6 +42,16 @@ Variações
 * space-between: cria um espaçamento igual entre os elementos;
 * space-around: os espaçamentos do meio são duas vezes maiores que o inicial e final.
 
+-----------------------------------
+5-align-items.html
+Align-items: trata do alinhamento dos flex items de acordo com o eixo do container.
+O alinhamento dos itens se estiverem em linha ou em coluna será diferente.
+Permite o alinhamento central no eixo vertical.
 
-
+Tipos de alinhalmento do align-items:
+* center: alinhamento dos itens no centro;
+* stretch: padrão - os flex-items crescem igualmente;
+* flex-start: alinhamento dos itens no início;
+* flex-end: alinhamento dos itens no final;
+* baseline: alinhamento de acordo com a linha base da tipografia od itens
 
