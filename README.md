@@ -14,3 +14,15 @@ Row(padrão): à direção do texto, esquerda p/ direita
 row-reverse: sentido oposto à direção do texto
 column: ordenação de cima pra baixo
 column-reverse: ordenação inversa de baixo pra cima
+
+-----------------------------------
+2-flex-wrap.html
+* Flex Wrap é a propriedade que define se os itens devem ou não quebrar a linha.
+* Por padrão eles não quebram linhas. Isso faz com que os flex items sejam compactados além do limite do conteúdo.
+
+nowrap: é o comportamento padrão e não permite a quebra de linha.
+wrap: permite a quebra de linha assim que um dos flex items não puder mais ser compactado.
+wrap-reverse: permite a quebra de linha assim que um dos flex items não puder mais ser compactado, porém, ele joga o item pra cima e não pra baixo! (estranho né hauhuah)
+
+
+
