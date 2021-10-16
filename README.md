@@ -29,6 +29,18 @@ wrap-reverse: permite a quebra de linha assim que um dos flex items não puder m
 Flex-flow: é um atalho para as propriedades flex-directions e flex-wrap.
 Seu uso não é muito comum, visto que quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é o nowrap.
 
+-----------------------------------
+4-justify-content.html
+Justify content: alinha os itens dentro do container de acordo com a direção pretendida e trata da distribuição de espaçamento entre eles.
+
+* Se os itens estiverem ocupando 100% de todo o container, justify content não se aplica.
+
+Variações
+* flex-start: início do container;
+* flex-end: final do container;
+* center: ao centro do container;
+* space-between: cria um espaçamento igual entre os elementos;
+* space-around: os espaçamentos do meio são duas vezes maiores que o inicial e final.
 
 
 
