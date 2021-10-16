@@ -55,3 +55,18 @@ Tipos de alinhalmento do align-items:
 * flex-end: alinhamento dos itens no final;
 * baseline: alinhamento de acordo com a linha base da tipografia od itens
 
+-----------------------------------
+6-align-content.html
+Align Content: é responsável por tratar o alinhamento das linhas do container em relação ao eixo vertical do container.
+
+Observações importantes?
+* O container deve utilizar quebra de linhas;
+* A altura do container deve ser maior que a soma das linhas dos itens.
+
+Tipos de alinhamento:
+* center: alinhamento dos itens ao centro;
+* stretch: é o padrão e os flex-items crescem igualmente;
+* flex-start: alinhamento dos itens no início;
+* flex-end: alinhamento dos itens no final;
+* space-between: cria um espaçamento igual entre os elementos;
+* space-around: os espaçamentos do meio são duas vezes maiores que o inicial e o final.
