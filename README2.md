@@ -24,3 +24,15 @@ Flex: é um atalho ou abreviação de escrita para as propriedades grow, shrink 
 -------------------------------
 4-order.html
 Order: lida diretamente com a ordenação dos items.
+
+-------------------------------
+4-align-self.html
+Align Self: estabelece o alinhamento de modo individual sobre um determinado item.
+
+Valores possíveis:
+* auto: valor padrão - respeita a definição de align-items do container;
+* flex-start: ao início do container;
+* flex-end: ao final do container;
+* center: relativo ao centro de acordo com o eixo;
+* stretch: ocupa todos os espaços relativos;
+* base-line: utiliza a linha base da tipografia.
