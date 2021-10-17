@@ -16,3 +16,7 @@ Valores possíveis
 -------------------------------
 2-flex-shrink.html
 Flex-shrink é a propriedade que estabelece a capacidade de redução ou compressão do tamanho de um item.
+
+-------------------------------
+3-flex.html
+Flex: é um atalho ou abreviação de escrita para as propriedades grow, shrink e basis.
