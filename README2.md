@@ -20,3 +20,7 @@ Flex-shrink é a propriedade que estabelece a capacidade de redução ou compres
 -------------------------------
 3-flex.html
 Flex: é um atalho ou abreviação de escrita para as propriedades grow, shrink e basis.
+
+-------------------------------
+4-order.html
+Order: lida diretamente com a ordenação dos items.
